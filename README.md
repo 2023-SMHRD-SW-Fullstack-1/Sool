@@ -164,7 +164,13 @@
         * 산출문서 작성 <br/>
         * PPT 제작<br/>
     </td>
-    <td align="center">blank</td>
+    <td align="center">
+     <b>[DB]</b><br/>
+        * DB 구축<br/>
+        * DB 데이터 전처리 및 데이터 삽입<br/>
+     <b>[BackEnd]</b><br/>
+        * 커뮤니티, 술창고 게시판 기술 구현<br/>
+    </td>
     <td align="center">blank</td>
   </tr>
   <tr>

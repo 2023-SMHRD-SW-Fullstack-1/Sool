@@ -168,6 +168,7 @@
      <b>[DB]</b><br/>
         * DB 구축<br/>
         * DB 데이터 전처리 및 데이터 삽입<br/>
+     <br/>
      <b>[BackEnd]</b><br/>
         * 커뮤니티, 술창고 게시판 기술 구현<br/>
     </td>
@@ -176,7 +177,7 @@
   <tr>
     <td align="center"><a href="https://github.com/jihilli" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/jihoon0127" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/songhak1226" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/자신의username작성해주세요" target='_blank'>github</a></td>
   </tr>
 </table>

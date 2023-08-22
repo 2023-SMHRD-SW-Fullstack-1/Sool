@@ -172,7 +172,17 @@
      <b>[BackEnd]</b><br/>
         * 커뮤니티, 술창고 게시판 기술 구현<br/>
     </td>
-    <td align="center">blank</td>
+    <td align="center">
+     * 데이터 크롤링<br/>
+        <br/><br/>
+        * 세션, 쿠키를 활용한 로그인, 로그아웃 구현<br/>
+        * 회원가입 구현 <br/>
+        * 술 리스트, 술 상세 정보 페이지 구현 <br/>
+        * 댓글 기능 구현<br/>
+        * API를 활용한 전통주 추천 시스템 구현 <br/>
+        * 커뮤니티 및 아카이브 상세 페이지 구현 참여<br/>
+        * 메인 페이지 디자인 참여<br/>
+    </td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/jihilli" target='_blank'>github</a></td>
